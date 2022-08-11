@@ -1,6 +1,6 @@
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Shahrokh Kiyani&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=shahrokh-kiyani&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
 <div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrokh-kiyani&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Shahrokh Kiyani" /></div>
