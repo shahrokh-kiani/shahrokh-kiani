@@ -3,14 +3,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Shahrokh Kiyani&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
-<div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrokhkiyani&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Shahrokh Kiyani" /></div>
+<div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrokh-kiyani&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Shahrokh Kiyani" /></div>
 
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=shahrokhkiyani&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nima Fanniasl github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrokhkiyani&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=shahrokh-kiyani&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nima Fanniasl github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrokh-kiyani&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=shahrokhkiyani&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=shahrokh-kiyani&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ### Main skills:
@@ -33,7 +33,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shahrokhkiyani}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shahrokh-kiyani}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
